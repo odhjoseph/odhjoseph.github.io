@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/kapetyn/Projects/odhjoseph.github.io/blogPosts/rekodii/preview/sitemap.xml
