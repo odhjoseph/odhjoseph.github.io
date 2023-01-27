@@ -3,7 +3,7 @@
     <title>Rekodii</title>
     <link href="file:////Users/kapetyn/Projects/odhjoseph.github.io/blogPosts/rekodii/preview/feed.xml" rel="self" />
     <link href="file:////Users/kapetyn/Projects/odhjoseph.github.io/blogPosts/rekodii/preview" />
-    <updated>2023-01-14T19:42:35-05:00</updated>
+    <updated>2023-01-20T08:12:17-05:00</updated>
     <author>
         <name>Joseph Odhiambo</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="file:////Users/kapetyn/Projects/odhjoseph.github.io/blogPosts/rekodii/preview/hosting-your-content-on-aws/index.html"/>
         <id>file:////Users/kapetyn/Projects/odhjoseph.github.io/blogPosts/rekodii/preview/hosting-your-content-on-aws/index.html</id>
 
-        <updated>2023-01-14T19:42:35-05:00</updated>
+        <updated>2023-01-20T08:12:17-05:00</updated>
             <summary>
                 <![CDATA[
                     There are several ways to host multiple websites on AWS, including using Amazon S3 and Amazon CloudFront, or using Amazon Elastic Container Service (ECS) with a load balancer. Amazon S3 and CloudFront: You can host a static website on Amazon S3 and use CloudFront to&hellip;
